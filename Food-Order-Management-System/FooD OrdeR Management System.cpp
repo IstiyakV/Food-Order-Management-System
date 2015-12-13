@@ -756,7 +756,6 @@ void updatefood(int udata, int uquantity){
 		temp->quantity = uquantity;
 	}
 
-	list = temp;
 }
 
 int countitem(){
